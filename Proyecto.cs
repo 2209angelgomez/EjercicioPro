@@ -53,7 +53,7 @@ namespace EjercicioPproyecto
                 new Proyecto()
                 {
                     Nombre = "Bancaria",
-                    Codigo = 23,
+                    Codigo = 7,
                     Area = "Comercio",
                     Duracion = 12
                 },
@@ -71,7 +71,7 @@ namespace EjercicioPproyecto
                     Nombre = "Atención Primaria",
                     Codigo = 23,
                     Area = "AIPI",
-                    Duracion = 18
+                    Duracion = 32
                 },
 
                 new Proyecto()
