@@ -96,6 +96,34 @@ namespace EjercicioPproyecto
                     Codigo = 27,
                     Area = "Sistemas",
                     Duracion = 7
+                },
+                new Proyecto()
+                {
+                    Nombre = "Producción Multimedia",
+                    Codigo = 34,
+                    Area = "Sistemas",
+                    Duracion = 10
+                },
+                new Proyecto()
+                {
+                    Nombre = "Producción Multimedia",
+                    Codigo = 24,
+                    Area = "Sistemas",
+                    Duracion = 9
+                },
+                new Proyecto()
+                {
+                    Nombre = "Producción Multimedia",
+                    Codigo = 33,
+                    Area = "Sistemas",
+                    Duracion = 5
+                },
+                new Proyecto()
+                {
+                    Nombre = "Producción Multimedia",
+                    Codigo = 40,
+                    Area = "Sistemas",
+                    Duracion = 7
                 }
 
             };
